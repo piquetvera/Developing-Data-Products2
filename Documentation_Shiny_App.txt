@@ -1,0 +1,9 @@
+
+
+Instructions For Running the Application
+1. The Data that the application uses is from the MTCARS dataset in Rstudio
+2. To Launch the Application, click on the following link. It may be advisable to right click and "open in new window" 
+ https://piquetvera.shinyapps.io/final_project_data_products/
+3. Once at the shinyapps.io website you will see a panel of optional variables on the right. 
+4. To make the application render the associated plots, you must select 2 or more optional variables.
+5. Selecting less than one variable will not do anything.
